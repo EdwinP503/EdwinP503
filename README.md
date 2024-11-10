@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 This repository is available for viewing but is not licensed for modification or distribution. Once my portfolio is live, it will be accessible at **[https://your-domain.com](https://your-domain.com)**.
 -->
-# Edwin Polanco - Junior Software Engineer
+# Junior Software Engineer
 
 Welcome to my GitHub! I'm Edwin Polanco, a passionate software engineer dedicated to developing impactful applications and automations. I am currently focused on building a dynamic portfolio website to showcase my skills and projects.
 
@@ -36,7 +36,7 @@ Here are some of the projects I have worked on:
    - **Technologies**: MongoDB, Express, React, Node.js
 
 4. **Okta Workflows Automation** - An automation project using Okta Workflows and Workato for account provisioning and deprovisioning.
-   - **Technologies**: Okta, Workato, Automation
+   - **Technologies**: Okta Workflows, Workato, Automation
 
 ### Currently Working On
 - **Portfolio Website**: I am actively building a full-stack portfolio website with React to showcase my work, skills, and accomplishments.
