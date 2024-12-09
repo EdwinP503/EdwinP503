@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EdwinP503/EdwinP503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 This repository is available for viewing but is not licensed for modification or distribution. Once my portfolio is live, it will be accessible at **[https://your-domain.com](https://your-domain.com)**.
 -->
-# Junior Software Engineer
+# Software Engineer
 
 Welcome to my GitHub! I'm Edwin Polanco, a passionate software engineer dedicated to developing impactful applications and automations. I am currently focused on building a dynamic portfolio website to showcase my skills and projects.
 
