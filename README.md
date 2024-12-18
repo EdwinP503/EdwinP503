@@ -15,8 +15,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/edwin-polanco)
 - 📫 Email: edwin.polanco001@umb.edu
 
-### Fun Facts
-- I'm a tech enthusiast who also loves outdoor activities.
-- I enjoy learning new tools and frameworks to enhance my projects.
+#### Currently working on:
+- Fullstack portfolio webstie to showcase my professional experience and skills gained.
+- Preparing documentation for previous projects and update repositories
 
 Thanks for stopping by! Feel free to check out my repositories! 🚀
