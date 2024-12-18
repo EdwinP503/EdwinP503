@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Edwin!
 
-<!--
-**EdwinP503/EdwinP503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **IT Graduate** from UMass Boston (May 2024).
+- 💻 Aspiring **Software Developer** with a keen interest in **Cybersecurity** and **System Administration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+- Programming: **JavaScript**, **Python**
+- Automation Tools: **Workato**, **Okta Workflows**
+- Databases: **MongoDB**, **MySQL**, **Jest**
+- Web Development: **React.js**, **Node.js**, **HTML/CSS**
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/edwin-polanco)
+- 📫 Email: edwin.polanco001@umb.edu
+
+## 🎯 Fun Facts
+- I'm a tech enthusiast who also loves outdoor activities.
+- I enjoy learning new tools and frameworks to enhance my projects.
+
+Thanks for stopping by! Feel free to check out my repositories! 🚀
