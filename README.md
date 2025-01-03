@@ -13,7 +13,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ### Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/edwin-polanco)
-- 📫 Email: edwin.polanco001@umb.edu
+- 📫 Email: edwin-polanco-it@outlook.com
+- 🌎 [Personal Website](https://www.edwin-boston.com)
 
 #### Currently working on:
 - Fullstack portfolio webstie to showcase my professional experience and skills gained.
