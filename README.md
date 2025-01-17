@@ -3,7 +3,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ### About Me
 - 🎓 **IT Graduate** from UMass Boston (May 2024).
-- 💻 Aspiring **Software Developer** with a keen interest in **Cybersecurity** and **System Administration**.
 
 ### Skills
 - Programming: **JavaScript**, **Python**
