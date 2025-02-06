@@ -5,10 +5,12 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🎓 **IT Graduate** from UMass Boston (May 2024).
 
 ### Skills
-- Programming: **JavaScript**, **Python**
-- Automation Tools: **Workato**, **Okta Workflows**
-- Databases: **MongoDB**, **MySQL**, **Jest**
-- Web Development: **React.js**, **Node.js**, **HTML/CSS**
+- ✔ **Backend Dev**: Python, Node.js, Express.js, MongoDB, AWS (Lambda, DynamoDB)
+- ✔ **Frontend Dev**: React.js, JavaScript, HTML, CSS, Sass
+- ✔ **Cloud & DevOps**: Docker (learning), Netlify, AWS
+- ✔ **Automation & Security**: Okta, Workato, Python scripting
+- ✔ **Testing & Optimization**: Jest, real-world efficiency improvements
+- ✔ **Project Management & Leadership**: Managing teams, estimating costs, delivering results
 
 ### Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/edwin-polanco)
