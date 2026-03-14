@@ -25,14 +25,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 - Okta Workflows Foundations
 - Splunk Core Certified User
 - Workato Automation Pro III
-
-  ## Projects
-- 🖥️ **HomeLab** — Proxmox, Windows & Ubuntu Servers, Azure, macOS/Windows VMs
-- 🌐 **Serverless Portfolio** — React.js, AWS, Netlify, CI/CD pipeline
-- ✈️ **AI Trip Planner WebApp** — OpenWeatherMap & Yelp APIs
-
-## Currently Working On
-- Expanding HomeLab and documenting projects for public repos
-- Deepening cloud security and automation skills
   
 Thanks for stopping by! Feel free to check out my repositories! 🚀
